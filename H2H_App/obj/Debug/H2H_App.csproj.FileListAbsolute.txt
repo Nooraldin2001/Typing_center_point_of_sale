@@ -1,0 +1,15 @@
+C:\H2H_App\H2H_App\bin\Debug\H2H_App.exe.config
+C:\H2H_App\H2H_App\bin\Debug\H2H_App.exe
+C:\H2H_App\H2H_App\bin\Debug\H2H_App.pdb
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.csproj.AssemblyReference.cache
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.csproj.SuggestedBindingRedirects.cache
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.Properties.Resources.resources
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.csproj.GenerateResource.cache
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.csproj.CoreCompileInputs.cache
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.exe
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.pdb
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.Invoice_Form.resources
+C:\H2H_App\H2H_App\bin\Debug\BouncyCastle.Crypto.dll
+C:\H2H_App\H2H_App\bin\Debug\itextsharp.dll
+C:\H2H_App\H2H_App\bin\Debug\itextsharp.xml
+C:\H2H_App\H2H_App\obj\Debug\H2H_App.csproj.CopyComplete
